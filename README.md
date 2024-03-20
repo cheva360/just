@@ -1,2 +1,2 @@
 # just
-just a pl
+just a platformer
